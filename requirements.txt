@@ -4,3 +4,5 @@ numpy
 pandas
 stable_baselines3
 torch
+tf-keras
+
