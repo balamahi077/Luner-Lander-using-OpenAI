@@ -27,4 +27,7 @@ of cumulative long-term reward.</p>
 >To run this project click on run button on right coener top screen.
 
 # Results
-![The San Juan Mountains are beautiful!]()
+![The San Juan Mountains are beautiful!](Screenshot 2025-04-28 221820.png)
+
+## LICENSE
+[MIT](
