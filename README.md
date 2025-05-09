@@ -19,7 +19,7 @@ of cumulative long-term reward.</p>
   ```
 - install required packages
   ```bash
-  pip install equirements.txt
+  pip install requirements.txt
   ```
 - Now you run this project...
   
